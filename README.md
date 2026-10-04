@@ -11,6 +11,17 @@
   <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Full-Stack+Developer;16+Years+Old;3+Years+of+Experience;Code.+Ship.+Repeat."/>
 </a>
 
+## 🔥 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/noxtornoxtor4-ux/ZeroWaiting_frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noxtornoxtor4-ux&repo=ZeroWaiting_frontend&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF"/>
+  </a>
+  <a href="https://github.com/noxtornoxtor4-ux/govorim-online-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noxtornoxtor4-ux&repo=govorim-online-bot&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF"/>
+  </a>
+</div>
+
 ## 📊 My Github Stats
 
 <div align="center">
@@ -64,7 +75,7 @@
 
 ## 🔖 My contacts
 
-<div class="contacts">
+<div align="center">
   <a href="https://wa.me/996501793636"><img src="https://img.shields.io/badge/-WhatsApp-0D1117?style=for-the-badge&logo=WhatsApp&logoColor=FF0000"></a>
   <a href="https://t.me/Elpacho_09"><img src="https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=FF0000"></a>
 </div>
