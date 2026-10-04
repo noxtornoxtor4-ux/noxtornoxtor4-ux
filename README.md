@@ -5,11 +5,17 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/noxtornoxtor4-ux" target="_blank">Eldos</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=noxtornoxtor4-ux&label=Profile+views&color=FF0000&style=for-the-badge" alt="Profile views"/>
+</p>
+
 ## 🙋‍♂️ About Me
 
-<a href="https://github.com/noxtornoxtor4-ux">
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Full-Stack+Developer;16+Years+Old;3+Years+of+Experience;Code.+Ship.+Repeat."/>
-</a>
+<p align="center">
+  <a href="https://github.com/noxtornoxtor4-ux">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=FF0000&center=true&vCenter=true&width=520&height=60&lines=Full-Stack+Developer;16+Years+Old;3+Years+of+Experience;Code.+Ship.+Repeat."/>
+  </a>
+</p>
 
 ## 🔥 Featured Projects
 
@@ -47,6 +53,16 @@
     <img alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=noxtornoxtor4-ux&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
   </a>
 </p>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noxtornoxtor4-ux/noxtornoxtor4-ux/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noxtornoxtor4-ux/noxtornoxtor4-ux/output/snake.svg"/>
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/noxtornoxtor4-ux/noxtornoxtor4-ux/output/snake.svg"/>
+  </picture>
+</div>
 
 ## 🚀 Languages and Tools
 
