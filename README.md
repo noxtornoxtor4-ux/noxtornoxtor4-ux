@@ -14,11 +14,20 @@
 ## 🔥 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/noxtornoxtor4-ux/phoenix-dental">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noxtornoxtor4-ux&repo=phoenix-dental&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF"/>
+  </a>
+  <a href="https://github.com/noxtornoxtor4-ux/eldos-dev-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noxtornoxtor4-ux&repo=eldos-dev-portfolio&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF"/>
+  </a>
   <a href="https://github.com/noxtornoxtor4-ux/ZeroWaiting_frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=noxtornoxtor4-ux&repo=ZeroWaiting_frontend&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF"/>
   </a>
   <a href="https://github.com/noxtornoxtor4-ux/govorim-online-bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=noxtornoxtor4-ux&repo=govorim-online-bot&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF"/>
+  </a>
+  <a href="https://github.com/noxtornoxtor4-ux/ort-landing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noxtornoxtor4-ux&repo=ort-landing&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF"/>
   </a>
 </div>
 
@@ -29,7 +38,7 @@
     <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=noxtornoxtor4-ux&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&ring_color=FF0000"/>
   </a>
   <a href="https://github.com/noxtornoxtor4-ux">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxtornoxtor4-ux&langs_count=8&count_private=true&size_weight=0.5&count_weight=0.5&exclude_repo=Eldos--Dev,eldos-dev09&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF"/>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noxtornoxtor4-ux&langs_count=8&count_private=true&size_weight=0.5&count_weight=0.5&exclude_repo=Eldos--Dev,eldos-dev,eldos-dev09&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF"/>
   </a>
 </div>
 
